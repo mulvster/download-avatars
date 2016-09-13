@@ -37,7 +37,7 @@ request.get({
                                                        //to store the information on your local file.
 
       downloadImageByURL(cv.avatar_url,filename);
- })
+  })
 
 });
 
